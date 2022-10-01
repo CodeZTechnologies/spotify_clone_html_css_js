@@ -122,7 +122,7 @@ nav ul li{
   }
 
 
- /* Adding custom scrollbar */
+ /* Adding custom scrollbar  */
 ::-webkit-scrollbar{
     width: 20px
 }
